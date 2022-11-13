@@ -14,6 +14,14 @@ git clone https://github.com/GonzaloJCY/Engie_API.git
 
 ## Run local
 
+### Create new test environment
+
+```
+python -m venv venv
+
+source venv/bin/activate
+```
+
 ### Install dependencies
 
 ```
